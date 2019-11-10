@@ -1,7 +1,7 @@
 # Python Basic
 
 
-`Python basic programming with example of codes`
+> **Python basic programming with example of codes**
 
 #
 ```
