@@ -1,8 +1,7 @@
 # Python Basic
 
-#
 
-**Membahas contoh - contoh program sederhana yang bisa dibuat melalui code python**
+**Python basic programming with example of codes**
 
 #
 ```
