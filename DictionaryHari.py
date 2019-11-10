@@ -1,4 +1,13 @@
 '''
+contoh program mencari isi dictionary
+'''
+day = {'senin':'monday','selasa':'tuesday','rabu':'wednesday','kamis':'thursday',
+'jumat':'friday','sabtu':'saturday','minggu':'sunday'}
+
+hariinput = input('masukan nama hari: ')
+print(f'{hariinput.upper()} = {day[hariinput.lower()].upper()}')
+
+'''
 contoh program menukar keys & values pada dictionary
 '''
 days = {'senin':'monday','selasa':'tuesday','rabu':'wednesday','kamis':'thursday',
