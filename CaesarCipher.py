@@ -1,6 +1,6 @@
 '''
 program caesar cipher positif
-caesharCipher('Lintang',2) => Nkpvcpi
+caesharCipher('Tama',2) => Vcoc
 '''
 
 kata = input("masukan kata : ")

@@ -1,7 +1,7 @@
 '''
 program reverse per kata
-kalimat = 'Hai aku Lina'
-'iaH uka aniL'
+kalimat = 'Hai aku Tama'
+'iaH uka amaT'
 '''
 
 kalimat = input('masukan kalimat yg diharapkan : ')
